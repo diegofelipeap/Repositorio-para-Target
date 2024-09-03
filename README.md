@@ -21,7 +21,7 @@ Este programa verifica se um número fornecido pertence à sequência de Fibonac
 
 ### Como Executar
 
-1. Salve o código em um arquivo chamado `fibonacci.js`.
+1. Salve o código em um arquivo chamado `Questão01.js`.
 2. Abra o arquivo no Visual Studio Code.
 3. Use o atalho de teclado `Ctrl + Alt + N` (Windows/Linux) ou `Cmd + Option + N` (Mac) para executar o código com a extensão **Code Runner**.
 4. O programa irá exibir se o número fornecido pertence ou não à sequência de Fibonacci no painel de saída.
@@ -36,7 +36,7 @@ Este programa verifica a existência da letra 'a' (maiúscula ou minúscula) em 
 
 ### Como Executar
 
-1. Salve o código em um arquivo chamado `countLetterA.js`.
+1. Salve o código em um arquivo chamado `Questão02.js`.
 2. Abra o arquivo no Visual Studio Code.
 3. Use o atalho de teclado `Ctrl + Alt + N` (Windows/Linux) ou `Cmd + Option + N` (Mac) para executar o código com a extensão **Code Runner**.
 4. O programa exibirá se a letra 'a' está presente na string e quantas vezes ela aparece no painel de saída.
@@ -51,7 +51,7 @@ Este programa simula um loop que incrementa e adiciona valores a uma variável c
 
 ### Como Executar
 
-1. Salve o código em um arquivo chamado `calculateSum.js`.
+1. Salve o código em um arquivo chamado `Questão03.js`.
 2. Abra o arquivo no Visual Studio Code.
 3. Use o atalho de teclado `Ctrl + Alt + N` (Windows/Linux) ou `Cmd + Option + N` (Mac) para executar o código com a extensão **Code Runner**.
 4. O programa exibirá cada iteração do loop e o valor final da variável `SOMA` no painel de saída.
@@ -66,7 +66,7 @@ Este programa resolve várias sequências numéricas identificando a lógica por
 
 ### Como Executar
 
-1. Salve o código em um arquivo chamado `numberSequences.js`.
+1. Salve o código em um arquivo chamado `Questão04.js`.
 2. Abra o arquivo no Visual Studio Code.
 3. Use o atalho de teclado `Ctrl + Alt + N` (Windows/Linux) ou `Cmd + Option + N` (Mac) para executar o código com a extensão **Code Runner**.
 4. O programa exibirá o próximo número para cada sequência numérica no painel de saída.
@@ -81,7 +81,7 @@ Este programa simula um cenário em que três interruptores controlam três lâm
 
 ### Como Executar
 
-1. Salve o código em um arquivo chamado `lampadasInterruptores.js`.
+1. Salve o código em um arquivo chamado `Questão05.js`.
 2. Abra o arquivo no Visual Studio Code.
 3. Use o atalho de teclado `Ctrl + Alt + N` (Windows/Linux) ou `Cmd + Option + N` (Mac) para executar o código com a extensão **Code Runner**.
 4. O programa irá simular o processo descrito e exibirá o resultado de cada etapa, identificando qual interruptor controla qual lâmpada no painel de saída.
